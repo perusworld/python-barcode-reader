@@ -4,6 +4,13 @@ pyzbar and Opencv based Barcode Reader using example code from [An OpenCV barcod
 
 ## Installation
 
+### Ubuntu
+```
+sudo apt install libzbar0
+pip install opencv-contrib-python pyzbar imutils
+```
+
+### Windows
 ```
 conda install opencv 
 pip install pyzbar
